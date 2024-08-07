@@ -1,0 +1,6 @@
+Pillow==9.2.0
+tk==0.1.0
+ttkbootstrap==1.0.0
+smtplib==0.0.1
+pyautogui==0.9.53
+pyperclip==1.8.2
